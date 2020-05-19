@@ -1,14 +1,25 @@
 {
-  "weeklyNewsletter":[
+  "weeklyNewsletter1":[
   {
     "url": "https://asbs.htmlsave.net/",
-    "subjectLine": "May 18 Weekly NewsLetter"
+    "subjectLine": "May Weekly NewsLetter 1",
+	"templateID":"EID001"
   }
 ],
-"Holiday": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+ "weeklyNewsletter2":[
+  {
+    "url": "https://ridgiersiberian.htmlpasta.com/",
+    "subjectLine": "May Weekly NewsLetter 2",
+	"templateID":"EID002"
+  }
+],
+ "weeklyNewsletter3":[
+  {
+    "url": "https://vikashdb.htmlsave.net",
+    "subjectLine": "May Weekly NewsLetter 3",
+	"templateID":"EID003"
+  }
+],
   "profile": {
     "name": "typicode"
   }
