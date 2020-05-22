@@ -1,17 +1,13 @@
 {
-  "weeklyNewsletter1":[
+  "mmUserSchemaDetails":[
   {
-    "url": "https://asbs.htmlsave.net/",
-    "subjectLine": "May Weekly NewsLetter 1",
-	"templateID":"EID001"
+    "ownerID": "0e94f3b0-daf0-e911-a97e-000d3a4e890a",
+    "email": "abhirkulkarni@gmail.com",
+	"nmls":"332349"
   },
   {
-  "url": "https://ridgiersiberian.htmlpasta.com/",
-    "subjectLine": "May Weekly NewsLetter 2",
-	"templateID":"EID002"
-  },{
-  "url": "https://vikashdb.htmlsave.net",
-    "subjectLine": "May Weekly NewsLetter 3",
-	"templateID":"EID003"
+  "ownerID": "0e94f3b0-daf0-e911-a97e-000d3a4eanu",
+    "email": "anusree.bs@gmail.com",
+	"nmls":"990099"
   }]
 }
