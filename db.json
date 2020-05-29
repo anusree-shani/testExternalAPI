@@ -1,13 +1,14 @@
 {
-  "mmUserSchemaDetails":[
+  "mortgageNewsletter":[
   {
-    "ownerID": "0e94f3b0-daf0-e911-a97e-000d3a4e890a",
-    "email": "abhirkulkarni@gmail.com",
-	"nmls":"3323500"
+    "url": "https://ridgiersiberian.htmlpasta.com/",
+    "subjectLine": "May Weekly NewsLetter 1",
+    "id": "EID001"
   },
   {
-  "ownerID": "0e94f3b0-daf0-e911-a97e-000d3a4eanu",
-    "email": "anusree.bs@gmail.com",
-	"nmls":"990099"
-  }]
+    "url": "https://ridgiersiberian.htmlpasta.com/",
+    "subjectLine": "Easier than you think",
+    "id": "EID0002"
+  }
+]
 }
