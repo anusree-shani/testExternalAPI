@@ -1,14 +1,9 @@
 {
   "mortgageNewsletter":[
-  {
-    "url": "https://asbs.htmlsave.net/",
-    "subjectLine": "May Weekly NewsLetter 1",
-    "id": "EID1111"
-  },
-  {
+   {
     "url": "https://ridgiersiberian.htmlpasta.com/",
-    "subjectLine": "Easier than you think",
-    "id": "EID2222"
+    "subjectLine": "Easier than you think May 30",
+    "id": "E03"
   }
 ]
 }
